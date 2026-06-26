@@ -87,7 +87,9 @@ go2_rl_suite/
 
 ### Go2W
 
-![Go2W Demo](media/go2w/Go2W_stage_demo.gif)
+<p align="center">
+  <img src="media/go2w/Go2W_stage_demo.gif" height="260"/>
+</p>
 
 - `media/go2/go2w_stage.mp4`  
 - `media/go2/go2w_stage_demo.mp4`  
