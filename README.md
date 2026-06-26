@@ -81,7 +81,8 @@ go2_rl_suite/
 </p>
 
 - `media/go2/Go2_control.mp4`  
-- `media/go2/Go2_demo.mp4`  
+- `media/go2/Go2_control_stage.mp4`
+- `media/go2/Go2.mp4`
 
 ---
 
@@ -91,8 +92,8 @@ go2_rl_suite/
   <img src="media/go2w/Go2W_stage_demo.gif" height="260"/>
 </p>
 
-- `media/go2/go2w_stage.mp4`  
-- `media/go2/go2w_stage_demo.mp4`  
+- `media/go2w/Go2W_rough.mp4`  
+- `media/go2w/Go2W_stage.mp4`  
 
 ---
 
