@@ -77,7 +77,7 @@ go2_rl_suite/
 ### Go2
 
 <p align="center">
-  <img src="media/go2/go2_demo.gif" height="260"/>
+  <img src="media/go2/Go2_demo.gif" height="260"/>
 </p>
 
 - `media/go2/Go2_control.mp4`  
