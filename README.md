@@ -76,7 +76,6 @@ go2_rl_suite/
 
 ### Go2
 
-# ![Go2 Demo](media/go2/Go2_demo.gif)
 <p align="center">
   <img src="media/go2/demo.gif" height="260"/>
   <img src="media/go2w/demo.gif" height="260"/>
